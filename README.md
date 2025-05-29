@@ -20,5 +20,5 @@ Modern, responsive portfolio and business website showcasing creative digital se
 - Mobile-optimized
 
 ## Contact
-- Email: ibramich@gmail.com
+- Email: ibramich3@gmail.com
 - Hours: Mon-Fri, 9AM-9PM EST
