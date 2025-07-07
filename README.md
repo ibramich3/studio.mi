@@ -1,6 +1,6 @@
-# studio.mi.website
-Professional portfolio and business website for Studio MI - Creative digital solutions including graphic design, web development, social media management, and content creation.
-# Studio MI - Creative Digital Solutions
+# MikeDrop.Studio.website
+Professional portfolio and business website for MikeDrop Studio - Creative digital solutions including graphic design, web development, social media management, and content creation.
+# MikeDrop Studio - Creative Digital Solutions
 
 ## Live
 https://ibramich3.github.io/studio.mi/
